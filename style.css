@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#desc{
+    text-align: center;
+    font-size: 28px;
+    background-color: rgb(218, 217, 217);
+    border-radius: 7px;
+}
+#heading{
+    text-align: center;
+    /* color: rgb(54, 57, 110); */
+    color: rgb(27, 52, 100);
+    font-weight: bold;
+}
